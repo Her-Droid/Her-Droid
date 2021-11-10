@@ -5,17 +5,16 @@ Hi there, I'm **Her-Droid**, a **Mobile Developer** 🚀 from Indonesian.
 ### Talking about Personal Stuffs:
   - 🔭 I’m currently working as Mobile dev freelancer
   - ⚡ Excited to create open-source projects
-  - 🌱 I’m currently learning Dart & Kotlin
+  - 🌱 I’m currently concern in Dart & Kotlin
   - 💕 I'm currently fall in love with Flutter & Kotlin
-  - 📫 You can reach me at <a href="mailto:abuaziscorp@gmail.com">abuaziscorp@gmail.com</a>
+  - 📫 You can reach me at <a href="mailto:russihersiano38@gmail.com">russihersiano38@gmail.com</a>
 
   
 ### Connect with me:
 
 <p>
-    <a href="https://abuzaio.me/portfolio/" target="blank"><img align="left" alt="udoyhasan.com" height="25px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/social/web.png" /></a>
-    <a href="https://twitter.com/abuzaio" target="blank"><img align="left" alt="udoyhasan | Twitter" height="25px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/social/twitter.png" /></a>
-    <a href="https://linkedin.com/in/abuazis" target="blank"><img align="left" alt="udoyhasan | LinkedIn" height="25px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/social/linkedin.png" /></a>
+    <a href="https://instagram/abuzaio" target="blank"><img align="left" alt="udoyhasan | Twitter" height="25px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/social/twitter.png" /></a>
+    <a href="https://www.linkedin.com/in/russi-hersiano-b2b20a186/" target="blank"><img align="left" alt="udoyhasan | LinkedIn" height="25px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/social/linkedin.png" /></a>
 </p>
 
 <br />
