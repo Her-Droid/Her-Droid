@@ -22,7 +22,7 @@ Hi there, I'm **Her-Droid**, a **Mobile Developer** 🚀 from Indonesian.
 ### Languages and Tools:
 
 <img align="left" alt="Flutter" height="30px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" />
-<img align="left" alt="Kotlin" height="30px" src="<img src="https://img.icons8.com/color/48/000000/kotlin.png"/>" />
+<img align="left" alt="Kotlin" height="30px" src="https://img.icons8.com/color/48/000000/kotlin.png" />
 <img align="left" alt="JavaScript" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/js.png" />
 <img align="left" alt="Laravel" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/laravel.png" />
 <img align="left" alt="Node" height="30px" src="https://www.pikpng.com/pngl/b/430-4309640_js-logo-nodejs-logo-clipart.png" />
